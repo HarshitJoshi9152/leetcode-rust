@@ -2,4 +2,4 @@
 
 Solving leetcode problems in rust
 
-follows the (neetcode roadmap)[https://neetcode.io/roadmap]
+follows the [neetcode roadmap](https://neetcode.io/roadmap)
